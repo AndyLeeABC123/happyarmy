@@ -15,6 +15,6 @@
 ### Materials and Credits:
 - MongoDB
 - NodeJS
-- Mapbox
+- Mapbox API
 - More elaborate walkthrough and source code by Ashwin Hariharan
 
